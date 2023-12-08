@@ -58,7 +58,7 @@ mv ../$projectName ../../
 
 mkdir "../$projectName/bin"
 
-cp ../bin/laravel/* ../blog/bin
+cp ../bin/laravel/* ../$projectName/bin
 
 sudo chmod -R 755 bin
 

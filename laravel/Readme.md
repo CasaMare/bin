@@ -1,0 +1,3 @@
+Example
+
+```laravel/install {projectName}```
